@@ -1,0 +1,14 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\bin\Debug\net9.0\opt.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\bin\Debug\net9.0\opt.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\bin\Debug\net9.0\opt.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\bin\Debug\net9.0\opt.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\bin\Debug\net9.0\opt.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\refint\opt.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\opt.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\opt\obj\Debug\net9.0\ref\opt.dll

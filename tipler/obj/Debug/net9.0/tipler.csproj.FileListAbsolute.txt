@@ -1,0 +1,14 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\bin\Debug\net9.0\tipler.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\bin\Debug\net9.0\tipler.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\bin\Debug\net9.0\tipler.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\bin\Debug\net9.0\tipler.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\bin\Debug\net9.0\tipler.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\refint\tipler.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\tipler.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\tipler\obj\Debug\net9.0\ref\tipler.dll

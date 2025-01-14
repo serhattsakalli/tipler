@@ -84,6 +84,10 @@ namespace MyApp
             Console.WriteLine(hour);
             
 
+            //git denemesi
+            Console.WriteLine(ad+" "+soyad+"="+int20);
+            //git denemesi başarılı
+
 
         }
     }

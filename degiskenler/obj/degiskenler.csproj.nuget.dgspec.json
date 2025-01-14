@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\Pratikler\\degiskenler\\degiskenler.csproj": {}
+    "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\pratikler\\degiskenler\\degiskenler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\Pratikler\\degiskenler\\degiskenler.csproj": {
+    "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\pratikler\\degiskenler\\degiskenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\Pratikler\\degiskenler\\degiskenler.csproj",
+        "projectUniqueName": "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\pratikler\\degiskenler\\degiskenler.csproj",
         "projectName": "degiskenler",
-        "projectPath": "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\Pratikler\\degiskenler\\degiskenler.csproj",
+        "projectPath": "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\pratikler\\degiskenler\\degiskenler.csproj",
         "packagesPath": "C:\\Users\\ByOyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\Pratikler\\degiskenler\\obj\\",
+        "outputPath": "C:\\Users\\ByOyu\\OneDrive\\Masaüstü\\pratikler\\degiskenler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ByOyu\\AppData\\Roaming\\NuGet\\NuGet.Config"
